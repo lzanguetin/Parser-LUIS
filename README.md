@@ -8,7 +8,7 @@ Projeto de parser com a intenção de analisar frases dentro de um excel, e atri
   
   2.Execução
     
-    2.1. Incluir projeto e excel na mesma pasta
+    2.1. Incluir arquivo .py e Excel na mesma pasta
     
     2.2. No cmd acessar essa pasta onde se encontram os arquivos
     
